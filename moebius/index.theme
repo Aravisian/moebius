@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Odyssey
+Comment=A theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Odyssey
+MetacityTheme=Odyssey
+ButtonLayout=menu:minimize,maximize,close
